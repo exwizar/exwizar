@@ -1,4 +1,3 @@
-Header
 
 ## I'm beginner frontend developer
 
@@ -10,7 +9,7 @@ Header
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exwizar&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exwizar&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exwizar&layout=compact&theme=dark)
 
 ![codewars](https://www.codewars.com/users/exwizar/badges/large)
