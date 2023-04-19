@@ -6,6 +6,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-pink?style=for-the-badge&logo=SASS)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
+![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=Redux)
 
 
 
